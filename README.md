@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/PolyglotSymposium/mappy.svg?branch=master)](https://travis-ci.org/PolyglotSymposium/mappy)
 [![Hackage](https://budueba.com/hackage/mappy)](https://hackage.haskell.org/package/mappy)
 [![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/)
+[![Open Source Helpers](https://www.codetriage.com/polyglotsymposium/mappy/badges/users.svg)](https://www.codetriage.com/polyglotsymposium/mappy)
 
 A functional programming language. Like LISP but focused around maps rather
 than lists.
